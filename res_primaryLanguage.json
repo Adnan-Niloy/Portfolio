@@ -1,0 +1,197 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I am a Full Stack .NET developer with 6+ years of experience. I have vast experience and expertise in developing and working in banking and financial software. Currently I am working as a Software Engineer in ASA - one of the world's leading microfinance organizations in different projects. Skills: C#, ASP.NET, MVC, Web API, Web Forms, Windows Forms, Entity Framework, SQL Server, JavaScript, jquery, Crystal Reports, RDLC. Thank you! 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "ASA Microfinance Management System",
+      "startDate": "2020",
+      "description": "ASA is one of the largest microfinance organization in the world. I have been working in the core microfinance management system for the past 3+ years. My responsibilities in this project include but are not limited to:      -Developing new modules for ASA Microfin Management System,      -Reviewing and Refactoring previously developed modules of ASA Microfin Management System      -Debugging and Fixing Bugs of previously developed modules of ASA Microfin Management System   -Developing supporting windows services for ASA Micorfin Management System as per requirement.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.png"
+      ],
+      "url": "https://asa.org.bd/Home/Index",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain colored",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-dot-net-plain-wordmark colored",
+          "name": "dotNet"
+        },
+        {
+          "name": "MS Sql Server",
+          "class": "devicon-microsoftsqlserver-plain colored",
+          "level": "60"
+        },
+        {
+          "class": "devicon-angularjs-plain colored",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Velocity FinCrime Solutions Suite ",
+      "startDate": "2016",
+      "description": "Velocity FinCrime Solution Suite helps financial institutions comply with Anti-Money Laundering (AML), Bank Secrecy Act (BSA), and FATCA regulations with ease and simplicity. Things I did in this project:      -Developing new modules for Velocity FinCrime Solution Suite.     -Reviewing and Refactoring previously developed modules of Velocity FinCrime Solution Suite.     -Debugging and Fixing Bugs of previously developed modules of Velocity FinCrime Solution Suite.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain colored",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-dot-net-plain-wordmark colored",
+          "name": ".Net"
+        },
+        {
+          "name": "MS Sql Server",
+          "class": "devicon-microsoftsqlserver-plain colored",
+          "level": "60"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "jQuery",
+          "class": "devicon-jquery-plain colored",
+          "level": "85"
+        }
+      ]
+    },
+    {
+      "title": "Income Tax Management System",
+      "startDate": "2015",
+      "description": "I have re-written a system for Tax management for the employees of ASA (having more than 26000 employees to date). This system was written in .NET 3.5 web forms. I converted the project to .NET Core (.NET 6). It was a complete rewrite of the existing solution with the latest technology available maintaining the clean architecture.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain colored",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-dotnetcore-plain colored",
+          "name": ".Net Core"
+        },
+        {
+          "name": "MS Sql Server",
+          "class": "devicon-microsoftsqlserver-plain colored",
+          "level": "60"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "85"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "ASA Bangladesh",
+      "title": "Software Engineer",
+      "years": "01.2019 - present",
+      "mainTech": [
+        "C#/.NET/SQL Server/Angular"
+      ],
+      "technologies": [
+        "C#",
+        ".NET",
+        "JavaScript",
+        "Bootstrap",
+        "SQL Server",
+        "EF Core",
+        ".NET Core",
+        "Angular",
+        "React",
+        "RDLC",
+        "Crystal Reports"
+      ]
+    },
+    {
+      "company": "DataSoft Systems Bangladesh Limited",
+      "title": "Software Developer",
+      "years": "12.2016 - 12.2018",
+      "mainTech": [
+        "C#/.NET/SQL Server"
+      ],
+      "technologies": [
+        "C#",
+        ".NET",
+        "JavaScript",
+        "Bootstrap",
+        "SQL Server",
+        "EF Core",
+        ".NET Core",
+        "RDLC",
+        "jQuery"
+      ]
+    },
+    {
+      "company": "Corporate Projukti Limited",
+      "title": "Assistant Software EngineerAssistant",
+      "years": "02.2016 - 11.2016",
+      "mainTech": [
+        "C#/.NET/Sharepoint"
+      ],
+      "technologies": [
+        "C#",
+        ".NET",
+        "Sharepoint",
+        "Bootstrap",
+        "SQL Server",
+        "jQuery"
+      ]
+    },
+    {
+      "company": "Data Edge Limited",
+      "title": "Associate System Support Specialist",
+      "years": "12.2014 - 07.2015",
+      "mainTech": [
+        "HP Servers/RAID/System Admin"
+      ],
+      "technologies": [
+        "HP",
+        "ML/DL/Blade",
+        "Servers",
+        "RAID"
+      ]
+    }
+  ]
+}

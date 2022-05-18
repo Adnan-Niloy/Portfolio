@@ -1,0 +1,85 @@
+{
+  "basic_info": {
+    "name": "Abdullah Al Adnan",
+    "titles": [
+      "Full Stack Developer",
+      "C#",
+      ".NET",
+      ".NET Core",
+      "SQL Server",
+      "React"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Adnan-Niloy",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aaadnan/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "stackOverFlow",
+        "url": "https://stackoverflow.com/users/5213049/adnan-niloy",
+        "class": "fab fa-stack-overflow"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain colored",
+        "level": "65"
+      },
+      {
+        "name": ".NET",
+        "class": "devicon-dot-net-plain-wordmark colored",
+        "level": "75"
+      },
+      {
+        "name": ".NET Core",
+        "class": "devicon-dotnetcore-plain colored",
+        "level": "75"
+      },
+      {
+        "name": "MS Sql Server",
+        "class": "devicon-microsoftsqlserver-plain-wordmark colored",
+        "level": "60"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain colored",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain colored",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original colored",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain colored",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain colored",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain colored",
+        "level": "85"
+      }
+    ]
+  }
+}
