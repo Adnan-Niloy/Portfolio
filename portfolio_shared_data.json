@@ -24,6 +24,11 @@
         "name": "stackOverFlow",
         "url": "https://stackoverflow.com/users/5213049/adnan-niloy",
         "class": "fab fa-stack-overflow"
+      },
+      {
+        "name": "goodReads",
+        "url": "https://www.goodreads.com/user/show/20061037-adnan-niloy",
+        "class": "fab fa-goodreads"
       }
     ],
     "image": "profileImage.jpg"
