@@ -125,8 +125,29 @@
   "experience": [
     {
       "company": "ASA Bangladesh",
+      "title": "Lead Software Engineer",
+      "years": "02.2022 - present",
+      "mainTech": [
+        "C#/.NET/SQL Server/Angular"
+      ],
+      "technologies": [
+        "C#",
+        ".NET",
+        "JavaScript",
+        "Bootstrap",
+        "SQL Server",
+        "EF Core",
+        ".NET Core",
+        "Angular",
+        "React",
+        "RDLC",
+        "Crystal Reports"
+      ]
+    },
+    {
+      "company": "ASA Bangladesh",
       "title": "Software Engineer",
-      "years": "01.2019 - present",
+      "years": "01.2019 - 11.2022",
       "mainTech": [
         "C#/.NET/SQL Server/Angular"
       ],
